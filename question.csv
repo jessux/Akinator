@@ -1,0 +1,13 @@
+id,question,attrib
+0,Est-ce que votre capitale est en Asie,Asia
+1,Est-ce que votre capitale est traversée par une rivière,Riviere
+2,Est-ce que votre capitale a une grande superficie ( > 43000 m2),grandeTaille
+3,Est-ce que votre capitale a un climat continental,tempContinental
+4,Est-ce que votre capitale est au bord de la mer,costal
+5,Est-ce que votre capitale a beaucoup de gratte-ciel,Gratte-ciel
+6,Est-ce que votre capitale est tres peuple,beaucoupPeuple
+7,Est-ce que votre capitale est tres touristique,touristique
+8,Est-ce que votre capitale a un metro,metro
+9,Est-ce que votre capitale a un climat tempere,tempere
+10,Est-ce que votre capitale est en Afrique,Africa
+11,Est-ce que votre capitale est peu peuple,peuPeuple

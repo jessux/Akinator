@@ -1,0 +1,54 @@
+capitald,Asia,Africa,North America,South America,Oceania,Europe,grandeTaille,petiteTaille,beaucoupPeuple,peuPeuple,Riviere,Altitudes,continental,costal,tempContinental,desertique,polaire,tropical,tempere,metro,touristique,Gratte-ciel
+Beijing,true,false,false,false,false,false,true,false,true,false,true,false,true,false,false,false,false,false,true,true,true,true
+New Delhi,true,false,false,false,false,false,true,false,true,false,false,true,true,false,false,false,false,false,true,false,false,false
+Washington,false,false,true,false,false,false,true,false,true,false,false,false,true,false,false,false,false,false,true,true,true,false
+Jakarta,true,false,false,false,false,false,true,false,true,false,false,false,false,true,false,false,false,true,false,false,false,true
+BrasÇğlia,false,false,false,true,false,false,true,false,true,false,false,true,true,false,false,false,false,true,false,true,true,false
+Islamabad,true,false,false,false,false,false,true,false,true,false,false,true,true,false,false,false,false,false,true,false,false,false
+Dhaka,true,false,false,false,false,false,true,false,true,false,true,false,true,false,false,false,false,true,false,true,true,false
+Abuja,false,true,false,false,false,false,true,false,true,false,false,true,true,false,false,false,false,true,false,false,false,false
+Moscow,false,false,false,false,false,true,true,false,true,false,true,false,true,false,true,false,false,false,false,true,true,true
+Tokyo,true,false,false,false,false,false,true,false,true,false,true,false,true,false,false,false,false,false,true,false,false,true
+Mexico,false,false,true,false,false,false,true,false,true,false,false,true,true,false,false,false,false,false,true,true,true,true
+Manille,true,false,false,false,false,false,true,false,true,false,true,false,false,true,false,false,false,true,false,false,false,false
+HanoiBis,true,false,false,false,false,false,false,true,true,false,true,false,true,false,false,false,false,false,true,true,true,false
+Hanoi,true,false,false,false,false,false,true,false,true,false,true,false,true,false,false,false,false,false,true,true,true,false
+Addis Ababa,false,true,false,false,false,false,true,false,true,false,false,true,true,false,false,false,false,false,true,false,false,false
+Berlin,false,false,false,false,false,true,true,false,true,false,false,false,true,false,false,false,false,false,true,true,true,false
+Cairo,false,true,false,false,false,false,true,false,true,false,true,false,true,false,false,true,false,false,false,false,false,false
+Ankara,true,false,false,false,false,false,true,false,true,false,false,true,true,false,true,false,false,false,false,true,true,true
+Tehran,true,false,false,false,false,false,true,false,true,false,false,true,true,false,false,true,false,false,false,false,false,false
+Kinshasa,false,true,false,false,false,false,true,false,true,false,true,true,true,false,false,false,false,true,false,true,true,false
+Bangkok,true,false,false,false,false,false,true,false,true,false,true,false,false,true,false,false,false,true,false,false,false,true
+Paris,false,false,false,false,false,true,true,false,true,false,true,false,true,false,false,false,false,false,true,true,true,false
+London,false,false,false,false,false,true,true,false,true,false,true,false,true,false,false,false,false,false,true,false,false,true
+Rome,false,false,false,false,false,true,true,false,true,false,true,false,true,false,false,false,false,false,true,true,true,false
+Naypyitaw,true,false,false,false,false,false,true,false,true,false,true,false,true,false,false,false,false,true,false,false,false,false
+Djibouti,false,true,false,false,false,false,false,true,false,true,false,false,false,true,false,true,false,false,false,true,true,false
+Manama,true,false,false,false,false,false,false,true,false,true,false,false,false,true,false,true,false,false,false,false,false,true
+Thimphu,true,false,false,false,false,false,false,true,false,true,false,true,true,false,false,false,false,false,true,true,true,false
+Podgorica,false,false,false,false,false,true,false,true,false,true,true,false,true,false,false,false,false,false,true,false,false,false
+Honiara,false,false,false,false,true,false,false,true,false,true,false,false,false,true,false,false,false,true,false,true,true,false
+Praia,false,true,false,false,false,false,false,true,false,true,false,false,false,true,false,true,false,false,false,false,false,false
+Luxembourg,false,false,false,false,false,true,false,true,false,true,true,true,true,false,false,false,false,false,true,true,true,false
+Paramaribo,false,false,false,true,false,false,true,false,false,true,false,false,false,true,false,false,false,true,false,false,false,false
+Bandar Seri Begawan,true,false,false,false,false,false,false,true,false,true,true,false,false,true,false,false,false,true,false,false,false,false
+Belmopan,false,false,true,false,false,false,false,true,false,true,false,false,true,false,false,false,false,true,false,false,false,false
+Reykjavik,false,false,false,false,false,true,true,false,false,true,false,false,false,true,false,false,true,false,false,false,true,false
+Nassau,false,false,true,false,false,false,false,true,false,true,false,false,false,true,false,false,false,true,false,false,false,false
+LaÇ½youne / El AaiÇ§n,false,true,false,false,false,false,true,false,false,true,false,false,false,true,false,true,false,false,false,false,true,false
+Papeete,false,false,false,false,true,false,false,true,false,true,false,false,false,true,false,false,false,true,false,false,false,false
+Port Vila,false,false,false,false,true,false,false,true,false,true,false,false,false,true,false,false,false,true,false,false,false,false
+Noumea,false,false,false,false,true,false,false,true,false,true,false,false,false,true,false,false,false,true,false,false,false,false
+Apia,false,false,false,false,true,false,false,true,false,true,false,false,true,false,false,false,false,true,false,false,true,false
+Nuuk,false,false,true,false,false,false,true,false,false,true,false,false,false,true,false,false,true,false,false,false,false,false
+TÇürshavn,false,false,false,false,false,true,false,true,false,true,false,false,false,true,false,false,true,false,false,false,true,false
+Monaco,false,false,false,false,false,true,false,true,false,true,false,false,false,true,false,false,false,false,true,false,false,false
+Mariehamn,false,false,false,false,false,true,false,true,false,true,false,false,false,true,false,false,true,false,false,false,true,false
+Longyearbyen,false,false,false,false,false,true,false,true,false,true,false,false,false,true,false,false,true,false,false,false,false,false
+Vatican City,false,false,false,false,false,true,false,true,false,true,false,false,true,false,false,false,false,false,true,false,true,false
+Port-aux-FranÇõais,false,false,false,false,false,false,false,true,false,true,false,false,false,true,false,false,true,false,false,false,true,false
+Sarajevo,false,false,false,false,false,true,false,true,true,false,true,true,true,false,true,false,false,false,false,false,true,false
+San JosÇ¸,false,false,true,false,false,false,false,true,true,false,false,true,false,true,false,false,false,true,false,false,true,false
+Zagreb,false,false,false,false,false,true,false,true,true,false,true,false,true,false,false,false,false,false,true,false,true,false
+Chi?inŸu,false,false,false,false,false,true,false,true,true,false,false,false,true,false,true,false,false,false,false,false,true,false
