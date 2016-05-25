@@ -1,3 +1,4 @@
+
 # -*- coding: utf8 -*-
 import csv
 
@@ -38,7 +39,18 @@ class bdd:
         return count
 
     def parseTrueFalse(self,liste):
-        return liste
+        tab=[]
+        with open(self.file, "rb") as csvfile:
+            reader = csv.reader(csvfile)
+            for row in reader:
+                for elem in row:
+                    if elem != "capitald":
+                        if elem in liste.keys():
+                            tab.append(liste[str(elem)])
+                        else:
+                            tab.append("False")
+                return tab
+
     
     def addCapitale(self,capitale,listeAttributs):
         with open(self.file,"rb") as csvfile:
@@ -47,7 +59,7 @@ class bdd:
                 writer = csv.writer(out)
                 row = reader.next()
                 all = [row]
-                iterateur = 0
+                modif = False
                 for row in enumerate(reader):
                     if row[1][0] == capitale:
                         tmp = self.updateCapitale(capitale,listeAttributs)
@@ -56,14 +68,14 @@ class bdd:
                         for col in all[0]:
                             tmp1.append(tmp[col])
                             print tmp1
-                        all.append(tmp1)     
-                    elif iterateur <1:
-                        newCap=[capitale]
-                        newCap.extend(self.parseTrueFalse(listeAttributs))
-                        all.append(newCap)
-                        iterateur = 1
+                        all.append(tmp1)
+                        modif = True
                     else:
                         all.append(row[1])
+                if not modif:
+                    newCap = [capitale]
+                    newCap.extend(self.parseTrueFalse(listeAttributs))
+                    all.append(newCap)
                 writer.writerows(all)
                 
     def getAttrib(self,capitale):

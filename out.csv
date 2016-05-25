@@ -1,5 +1,5 @@
 capitald,Asia,Africa,North America,South America,Oceania,Europe,grandeTaille,petiteTaille,beaucoupPeuple,peuPeuple,Riviere,Altitudes,continental,costal,tempContinental,desertique,polaire,tropical,tempere,metro,touristique,Gratte-ciel
-Paris,"[{'attrib': 'tempContinental', 'question': 'Est-ce que votre capitale a un climat continental', 'id': '3'}, 2]","[{'attrib': 'Africa', 'question': 'Est-ce que votre capitale est en Afrique', 'id': '10'}, 2]","[{'attrib': 'Gratte-ciel', 'question': 'Est-ce que votre capitale a beaucoup de gratte-ciel', 'id': '5'}, 2]","[{'attrib': 'metro', 'question': 'Est-ce que votre capitale a un metro', 'id': '8'}, 2]","[{'attrib': 'Asia', 'question': 'Est-ce que votre capitale est en Asie', 'id': '0'}, 2]","[{'attrib': 'tempere', 'question': 'Est-ce que votre capitale a un climat tempere', 'id': '9'}, 2]","[{'attrib': 'costal', 'question': 'Est-ce que votre capitale est au bord de la mer', 'id': '4'}, 2]","[{'attrib': 'Riviere', 'question': 'Est-ce que votre capitale est travers\xe9e par une rivi\xe8re', 'id': '1'}, 2]","[{'attrib': 'peuPeuple', 'question': 'Est-ce que votre capitale est peu peuple', 'id': '11'}, 2]","[{'attrib': 'beaucoupPeuple', 'question': 'Est-ce que votre capitale est tres peuple', 'id': '6'}, 2]","[{'attrib': 'touristique', 'question': 'Est-ce que votre capitale est tres touristique', 'id': '7'}, 2]","[{'attrib': 'grandeTaille', 'question': 'Est-ce que votre capitale a une grande superficie ( > 43000 m2)', 'id': '2'}, 2]"
+Beijing,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False,True,True,True,True
 New Delhi,True,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,True,False,False,False
 Washington,False,False,True,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,True,True,True,False
 Jakarta,True,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,False,True,False,False,False,True
@@ -20,7 +20,7 @@ Ankara,True,False,False,False,False,False,True,False,True,False,False,True,True,
 Tehran,True,False,False,False,False,False,True,False,True,False,False,True,True,False,False,True,False,False,False,False,False,False
 Kinshasa,False,True,False,False,False,False,True,False,True,False,True,True,True,False,False,False,False,True,False,True,True,False
 Bangkok,True,False,False,False,False,False,True,False,True,False,True,False,False,True,False,False,False,True,False,False,False,True
-Paris,True,True,False,False,False,True,True,False,True,True,True,False,True,True,True,False,False,False,True,True,True,True
+Paris,False,False,False,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,True,True,True,False
 London,False,False,False,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False,True
 Rome,False,False,False,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,True,True,True,False
 Naypyitaw,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,True,False,False,False,False
@@ -52,4 +52,4 @@ Sarajevo,False,False,False,False,False,True,False,True,True,False,True,True,True
 San Jos«∏,False,False,True,False,False,False,False,True,True,False,False,True,False,True,False,False,False,True,False,False,True,False
 Zagreb,False,False,False,False,False,True,False,True,True,False,True,False,True,False,False,False,False,False,True,False,True,False
 Chiè?inéüu,False,False,False,False,False,True,False,True,True,False,False,False,True,False,True,False,False,False,False,False,True,False
-TETU,true
+Bordeaux,False,False,False,False,False,False,True,False,False,True,True,False,False,True,False,False,False,False,True,False,False,False

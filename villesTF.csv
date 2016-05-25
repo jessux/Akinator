@@ -3,7 +3,6 @@ Beijing,True,False,False,False,False,False,True,False,True,False,True,False,True
 New Delhi,True,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,True,False,False,False
 Washington,False,False,True,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,True,True,True,False
 Jakarta,True,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,False,True,False,False,False,True
-Bras«lia,False,False,False,True,False,False,True,False,True,False,False,True,True,False,False,False,False,True,False,True,True,False
 Islamabad,True,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,True,False,False,False
 Dhaka,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,True,False,True,True,False
 Abuja,False,True,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,True,False,False,False,False
@@ -36,20 +35,14 @@ Bandar Seri Begawan,True,False,False,False,False,False,False,True,False,True,Tru
 Belmopan,False,False,True,False,False,False,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False
 Reykjavik,False,False,False,False,False,True,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False
 Nassau,False,False,True,False,False,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False
-La«Ωyoune / El Aai«ßn,False,True,False,False,False,False,True,False,False,True,False,False,False,True,False,True,False,False,False,False,True,False
 Papeete,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False
 Port Vila,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False
 Noumea,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False
 Apia,False,False,False,False,True,False,False,True,False,True,False,False,True,False,False,False,False,True,False,False,True,False
 Nuuk,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False
-T«¸rshavn,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True,False
 Monaco,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,False,False,True,False,False,False
 Mariehamn,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True,False
 Longyearbyen,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False,False,False,False,False
 Vatican City,False,False,False,False,False,True,False,True,False,True,False,False,True,False,False,False,False,False,True,False,True,False
-Port-aux-Fran«ıais,False,False,False,False,False,False,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True,False
 Sarajevo,False,False,False,False,False,True,False,True,True,False,True,True,True,False,True,False,False,False,False,False,True,False
-San Jos«∏,False,False,True,False,False,False,False,True,True,False,False,True,False,True,False,False,False,True,False,False,True,False
 Zagreb,False,False,False,False,False,True,False,True,True,False,True,False,True,False,False,False,False,False,True,False,True,False
-Chiè?inéüu,False,False,False,False,False,True,False,True,True,False,False,False,True,False,True,False,False,False,False,False,True,False
-TETU,true
