@@ -1,50 +1,49 @@
-capitald,Asia,Africa,North America,South America,Oceania,Europe,grandeTaille,petiteTaille,beaucoupPeuple,peuPeuple,Riviere,Altitudes,continental,costal,tempContinental,desertique,polaire,tropical,tempere,metro,touristique,Gratte-ciel
-Beijing,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False,True,True,True,True
-New Delhi,True,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,True,False,False,False
-Washington,False,False,True,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,True,True,True,False
-Jakarta,True,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,False,True,False,False,False,True
-Islamabad,True,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,True,False,False,False
-Dhaka,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,True,False,True,True,False
-Abuja,False,True,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,True,False,False,False,False
-Moscow,False,False,False,False,False,True,True,False,True,False,True,False,True,False,True,False,False,False,False,True,True,True
-Tokyo,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False,True
-Mexico,False,False,True,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,True,True,True,True
-Manille,True,False,False,False,False,False,True,False,True,False,True,False,False,True,False,False,False,True,False,False,False,False
-HanoiBis,True,False,False,False,False,False,False,True,True,False,True,False,True,False,False,False,False,False,True,True,True,False
-Hanoi,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False,True,True,True,False
-Addis Ababa,False,True,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,True,False,False,False
-Berlin,False,False,False,False,False,True,True,False,True,False,False,False,True,False,False,False,False,False,True,True,True,False
-Cairo,False,True,False,False,False,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False
-Ankara,True,False,False,False,False,False,True,False,True,False,False,True,True,False,True,False,False,False,False,True,True,True
-Tehran,True,False,False,False,False,False,True,False,True,False,False,True,True,False,False,True,False,False,False,False,False,False
-Kinshasa,False,True,False,False,False,False,True,False,True,False,True,True,True,False,False,False,False,True,False,True,True,False
-Bangkok,True,False,False,False,False,False,True,False,True,False,True,False,False,True,False,False,False,True,False,False,False,True
-Paris,False,False,False,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,True,True,True,False
-London,False,False,False,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False,True
-Rome,False,False,False,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,True,True,True,False
-Naypyitaw,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,True,False,False,False,False
-Djibouti,False,True,False,False,False,False,False,True,False,True,False,False,False,True,False,True,False,False,False,True,True,False
-Manama,True,False,False,False,False,False,False,True,False,True,False,False,False,True,False,True,False,False,False,False,False,True
-Thimphu,True,False,False,False,False,False,False,True,False,True,False,True,True,False,False,False,False,False,True,True,True,False
-Podgorica,False,False,False,False,False,True,False,True,False,True,True,False,True,False,False,False,False,False,True,False,False,False
-Honiara,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False,True,True,False
-Praia,False,True,False,False,False,False,False,True,False,True,False,False,False,True,False,True,False,False,False,False,False,False
-Luxembourg,False,False,False,False,False,True,False,True,False,True,True,True,True,False,False,False,False,False,True,True,True,False
-Paramaribo,False,False,False,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True,False,False,False,False
-Bandar Seri Begawan,True,False,False,False,False,False,False,True,False,True,True,False,False,True,False,False,False,True,False,False,False,False
-Belmopan,False,False,True,False,False,False,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False
-Reykjavik,False,False,False,False,False,True,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False
-Nassau,False,False,True,False,False,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False
-Papeete,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False
-Port Vila,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False
-Noumea,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False
-Apia,False,False,False,False,True,False,False,True,False,True,False,False,True,False,False,False,False,True,False,False,True,False
-Nuuk,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False
-Monaco,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,False,False,True,False,False,False
-Mariehamn,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True,False
-Longyearbyen,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False,False,False,False,False
-Vatican City,False,False,False,False,False,True,False,True,False,True,False,False,True,False,False,False,False,False,True,False,True,False
-Sarajevo,False,False,False,False,False,True,False,True,True,False,True,True,True,False,True,False,False,False,False,False,True,False
-Zagreb,False,False,False,False,False,True,False,True,True,False,True,False,True,False,False,False,False,False,True,False,True,False
-Tunis,False,True,False,False,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,True,True,False
-Brasilia,False,False,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,True,False,False
+capitald,Asia,Africa,North America,South America,Oceania,Europe,grandeTaille,petiteTaille,beaucoupPeuple,peuPeuple,Riviere,Altitudes,continental,costal,tempContinental,desertique,polaire,tropical,tempere,metro,touristique,Gratte-ciel,Frite
+Beijing,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False,True,True,True,True,False
+New Delhi,True,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,True,False,False,False,False
+Washington,False,False,True,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,True,True,True,False,False
+Jakarta,True,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,False,True,False,False,False,True,False
+Islamabad,True,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,True,False,False,False,False
+Dhaka,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,True,False,True,True,False,False
+Abuja,False,True,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,True,False,False,False,False,False
+Moscow,False,False,False,False,False,True,True,False,True,False,True,False,True,False,True,False,False,False,False,True,True,True,False
+Tokyo,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False,True,False
+Mexico,False,False,True,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,True,True,True,True,False
+Manille,True,False,False,False,False,False,True,False,True,False,True,False,False,True,False,False,False,True,False,False,False,False,False
+HanoiBis,True,False,False,False,False,False,False,True,True,False,True,False,True,False,False,False,False,False,True,True,True,False,False
+Hanoi,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False,True,True,True,False,False
+Addis Ababa,False,True,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False,False,True,False,False,False,False
+Berlin,False,False,False,False,False,True,True,False,True,False,False,False,True,False,False,False,False,False,True,True,True,False,False
+Cairo,False,True,False,False,False,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False
+Ankara,True,False,False,False,False,False,True,False,True,False,False,True,True,False,True,False,False,False,False,True,True,True,False
+Tehran,True,False,False,False,False,False,True,False,True,False,False,True,True,False,False,True,False,False,False,False,False,False,False
+Kinshasa,False,True,False,False,False,False,True,False,True,False,True,True,True,False,False,False,False,True,False,True,True,False,False
+Bangkok,True,False,False,False,False,False,True,False,True,False,True,False,False,True,False,False,False,True,False,False,False,True,False
+Paris,False,False,False,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,True,True,True,False,False
+London,False,False,False,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False,True,False
+Rome,False,False,False,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,True,True,True,False,False
+Naypyitaw,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,True,False,False,False,False,False
+Djibouti,False,True,False,False,False,False,False,True,False,True,False,False,False,True,False,True,False,False,False,True,True,False,False
+Manama,True,False,False,False,False,False,False,True,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False
+Thimphu,True,False,False,False,False,False,False,True,False,True,False,True,True,False,False,False,False,False,True,True,True,False,False
+Podgorica,False,False,False,False,False,True,False,True,False,True,True,False,True,False,False,False,False,False,True,False,False,False,False
+Honiara,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False,True,True,False,False
+Praia,False,True,False,False,False,False,False,True,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False
+Luxembourg,False,False,False,False,False,True,False,True,False,True,True,True,True,False,False,False,False,False,True,True,True,False,False
+Paramaribo,False,False,False,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+Bandar Seri Begawan,True,False,False,False,False,False,False,True,False,True,True,False,False,True,False,False,False,True,False,False,False,False,False
+Belmopan,False,False,True,False,False,False,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False
+Reykjavik,False,False,False,False,False,True,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False
+Nassau,False,False,True,False,False,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+Papeete,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+Port Vila,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+Noumea,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+Apia,False,False,False,False,True,False,False,True,False,True,False,False,True,False,False,False,False,True,False,False,True,False,False
+Nuuk,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Monaco,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,False,False,True,False,False,False,False
+Mariehamn,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False
+Longyearbyen,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Vatican City,False,False,False,False,False,True,False,True,False,True,False,False,True,False,False,False,False,False,True,False,True,False,False
+Sarajevo,False,False,False,False,False,True,False,True,True,False,True,True,True,False,True,False,False,False,False,False,True,False,False
+Zagreb,False,False,False,False,False,True,False,True,True,False,True,False,True,False,False,False,False,False,True,False,True,False,False
+Bruxelle,False,False,False,False,False,True,True,False,True,False,False,False,True,False,False,False,False,False,True,True,False,False,True

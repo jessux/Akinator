@@ -23,6 +23,7 @@ class question:
                         self.id = int(self.questionAVenir[random.randrange(0,len(self.questionAVenir))]["id"])
                     return question
 
+
     def initQuestion(self):
         with open("question.csv","r") as questionFile:
             questions = csv.DictReader(questionFile)
@@ -47,8 +48,11 @@ class question:
         return int(tmp)
     
     def repondreQuestion(self):
-        q= self.poserQuestion()
-        val = raw_input(q["question"]+" : ")
+        #q= self.poserQuestion()
+        #return q["question"]
+        return self.poserQuestion()
+
+    def updateResponse(self,q,val):
         self.instanceMoteur.updateScore(q["attrib"],int(val))
         self.questionPasse.append([q,int(val)])
         self.questionAVenir.pop(self.questionAVenir.index(q))

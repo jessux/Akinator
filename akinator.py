@@ -14,7 +14,6 @@ class moteur:
             for cap in self.scoreTab:
                 if cap.has_key(capitales):
                     cap[capitales] += score
-        print self.getProbaFind()
         if self.getProbaFind() > 95.0:
             self.getMaxScore()
 

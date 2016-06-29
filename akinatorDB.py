@@ -2,6 +2,7 @@
 # -*- coding: utf8 -*-
 import csv
 
+
 class bdd:
     def __init__(self):
         self.file = "villesTF.csv"
@@ -96,7 +97,8 @@ class bdd:
 
         return attrib[0]             
                 
-    def addDiscriminant(self,columnName,capitale):
+    def addDiscriminant(self,columnName,capitale,question):
+        idmax = 0
         with open(self.file,"rb") as csvfile:
             with open("out.csv","wb") as out:
                 reader = csv.reader(csvfile)
@@ -108,14 +110,28 @@ class bdd:
                 for row in enumerate(reader):
                     if row[1][0] == capitale:
                         all.append(row[1]+["True"])
-                    all.append(row[1]+["False"])
+                    else:
+                        all.append(row[1]+["False"])
                 writer.writerows(all)
-                
+
+        with open("question.csv", "rb") as csvfile:
+            with open("out1.csv", "wb") as out:
+                reader = csv.reader(csvfile)
+                writer = csv.writer(out)
+                all = []
+                row = reader.next()
+                all.append(row)
+                for row in enumerate(reader):
+                    if int(row[1][0])>=int(idmax):
+                        idmax = row[1][0]
+                    all.append(row[1])
+                all.append([int(idmax)+1,question,columnName])
+                writer.writerows(all)
     
         
 if __name__ == "__main__" :
     
     bdd = bdd()
-    #maliste = bdd.setCapitaleListe()
-    
+    maliste = bdd.setCapitaleListe()
+    bdd.addDiscriminant('frite','bruxelle',"Est-ce que votre capitale mange beaucoup de frites?")
     ## GMT ?
